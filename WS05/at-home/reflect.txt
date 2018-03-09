@@ -1,0 +1,28 @@
+1. 
+   The reference would be acceptable if we change the value of the object 'this'. 
+   As the description resquests to "return a copy of the result" this means that 
+   the original objects should not be changed. 
+
+2. 
+   (a + b).display();
+   (b + d).display();
+   (b += d).display();
+ 
+3. 
+  3.1 Function "initialize" to set the data members to deafult values.
+  3.2 Reuse of the operator== inside the definition of operator!= and inverted the bool value.
+  3.3 Reuse of the operator+ in the function operator+= to add the Fraction.
+  3.4 Created function "calculate" to calculate the values of the Fraction for comparasion.
+  3.5 Reuse of the "reduce" function on several places. 
+
+4. 
+   I learned that I can use temporary objects to call member functions.
+   I can call the overloaded operators from inside the object with the word "operator".
+   If the class is well designed we can reuse a lot of code inside the class. 
+
+
+QUIZ REFLECTION
+Quiz 4:
+   What is the difference between a C++ class and a C++ object?
+   I wrote only that the object is the Instance of the class but
+forgot to write that the class is a Data Type.
