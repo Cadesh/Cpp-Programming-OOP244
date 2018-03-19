@@ -1,0 +1,15 @@
+
+1 - 
+   We check if the address of source object is the same address of the destiny object
+because when you uses "new" to resize the phone array in the destiny object
+you will mess with the source object as they are the same objects.  
+
+2 - 
+   I avoided duplication with the creation of some new functions:
+   - Function to count the number of digits in the phone.
+   - Funtion to copy values of objects used in copy constructor and = operator.
+   - Function to check if the Phone number is valid.
+
+3 - The thing I find more interesting is the possibility 
+to resize arrays dinamically to add new data. I also learned about the 
+problems related to self-assign objects that can lead to serious errors.

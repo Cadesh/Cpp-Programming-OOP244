@@ -1,6 +1,5 @@
 //-----------------------------------------------------------------
 // WS07 LAB - DERIVED CLASS
-// STUDENT: ANDRE ROSA - 115997173
 // COURSE: OOP 244
 // DATE: 20 APR 2018
 // HERO.H

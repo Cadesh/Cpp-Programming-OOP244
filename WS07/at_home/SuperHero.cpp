@@ -1,6 +1,5 @@
 //-----------------------------------------------------------------
 // WS07 HOME - DERIVED CLASS
-// STUDENT: ANDRE ROSA - 115997173
 // COURSE: OOP 244
 // DATE: 20 APR 2018
 // SUPERHERO.CPP
