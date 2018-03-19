@@ -1,0 +1,17 @@
+1 - 
+    No, the base class Hero is independent from any derived class and can have its own
+instantiated objects.
+
+2 - 
+   Yes, because the SuperHero class inherits the data members and member functions of Hero.
+
+3 - 
+   "Ancient Battle" bacause the operator* receives two parameters "Hero" in the Hero class. 
+   As Hector is a "Hero" the operator* used is from the Hero class.
+   SuperHero class operator* is not used as it needs two "SuperHero" parameters.  
+
+4 - I tested and both worked. You can create the object and use it "on the fly" without the
+    need of defining a name for it.  
+
+
+
