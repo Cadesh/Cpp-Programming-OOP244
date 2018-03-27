@@ -1,5 +1,6 @@
 //-----------------------------------------------------------------
 // WS06 CLASS WITH A RESOURCE
+// STUDENT: ANDRE R
 // COURSE: OOP 244
 // DATE: 15 APR 2018
 // AT HOME

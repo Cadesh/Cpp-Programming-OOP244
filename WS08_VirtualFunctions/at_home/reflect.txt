@@ -1,0 +1,20 @@
+1. What is the difference between an abstract base class and a concrete class?
+
+the Abstract classes are never instantiated in objects,
+they are just frameworks for the derived classes. 
+Concrete classes are classes that can be instantiated in objects. 
+
+2. Identify the functions that shadow functions of the same name in your solution?
+
+   From iAccount all pure virtual functions are rewritten in the derived classes. 
+   From Account the functions 'display' and 'monthEnd' are shadowed in ChequingAccount and SavingsAccount.
+  
+
+3. Explain what have you learned in this workshop.
+
+    I learned that I can create virtual functions in a base class and then
+make them behave differently on each derived class. I can create different 
+Data Types but handle them as equals with the use of the base class. 
+
+This is probably the most amazing thing I learned in OOP244:
+Manage objects of different types as objects of the same type if I want. 

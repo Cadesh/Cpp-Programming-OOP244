@@ -1,4 +1,9 @@
-
+//-----------------------------------------------------------------
+// WS06 CLASS WITH A RESOURCE
+// STUDENT: Andre R
+// COURSE: OOP 244
+// DATE: 13 APR 2018
+//----------------------------------------------------------------
 
 #ifndef CONTRACT_H
 #define CONTRACT_H
